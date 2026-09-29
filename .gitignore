@@ -1,7 +1,13 @@
-bin/
-obj/
 .vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
+[Bb]in/
+[Oo]bj/
+.vscode/
+packages/
+TestResults/
+.idea/
+.DS_Store
+Thumbs.db
